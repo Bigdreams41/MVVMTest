@@ -9,6 +9,7 @@ import com.example.android.mvvmtest.model.remote.API
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import kotlin.jvm.internal.Intrinsics
 
 class CocktailViewModel: ViewModel() {
 
